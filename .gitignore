@@ -5,3 +5,7 @@
 build/
 
 node_modules/
+
+.vscode/
+.sass-cache/
+.gup-scss-cache/
